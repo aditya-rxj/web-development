@@ -1,10 +1,7 @@
+### Week-00
 
-### Week 0
+> [Git and Github Class](https://app.eraser.io/workspace/06oTmTiO17QjeuTDkp7O)
 
-Check out my articles below 👇
+> [Git and Github Master Class](https://app.eraser.io/workspace/Mb1uSbRhDKsd53ne0NX9)
 
-- **Learn Git and GitHub**: [Click Here](https://ixraj.hashnode.dev/learn-git-github)
-
-<br>
-
-- **Access all my articles**: [Click Here](https://ixraj.hashnode.dev/)
+> [Learn Git and GitHub Blog](https://ixraj.hashnode.dev/learn-git-github)
