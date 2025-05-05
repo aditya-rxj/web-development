@@ -1,0 +1,19 @@
+button {
+  color: darkred;
+  font-size: 32px;
+  padding: 8px 16px;
+  border: 2px solid #333;
+  border-radius: 20px;
+}
+
+#btn {
+  color: darkcyan;
+}
+
+#btn {
+  color: darkturquoise;
+}
+
+.btn {
+  color: darkgoldenrod;
+}
