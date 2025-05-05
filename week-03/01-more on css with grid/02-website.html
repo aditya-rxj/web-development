@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>website grid</title>
+    <style>
+      .website {
+        border: 1px solid #333;
+        display: grid;
+
+        grid-template-areas:
+          "header header header"
+          "content content ads"
+          "footer footer footer";
+      }
+
+      .header {
+        background-color: lightblue;
+        padding: 100px;
+        margin: 10px;
+        grid-area: header;
+      }
+
+      .content {
+        background-color: lightpink;
+        padding: 100px;
+        margin: 10px;
+        grid-area: content;
+      }
+
+      .ads {
+        background-color: lightgreen;
+        padding: 100px;
+        margin: 10px;
+        grid-area: ads;
+      }
+
+      .footer {
+        background-color: lightgoldenrodyellow;
+        padding: 100px;
+        margin: 10px;
+        grid-area: footer;
+      }
+
+      .section {
+        border: 2px dashed #111;
+        /* background-color: lightgreen; */
+      }
+    </style>
+  </head>
+  <body>
+    <div class="website">
+      <div class="header section">header</div>
+      <div class="content section">content</div>
+      <div class="ads section">ads</div>
+      <div class="footer section">footer</div>
+    </div>
+  </body>
+</html>
